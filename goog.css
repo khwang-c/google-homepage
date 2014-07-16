@@ -1,0 +1,32 @@
+li{
+	list-style: none;
+	display: inline;
+}
+
+#container{
+	
+	position: relative; top: 140px;
+	width: 700px ; height: 200px;
+	margin: 0 auto;
+}
+
+#logo{
+
+	position: relative;
+	left: 200px;
+	
+}
+
+input{
+	width: 541px; height: 27px;
+	position: relative;
+	margin: 10px 25px 0px 65px;
+
+}
+
+button {
+	position: relative;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
